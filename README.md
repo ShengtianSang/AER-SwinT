@@ -3,7 +3,7 @@ The source code for Attention Enhanced Residual Swin-Transformer
 
 <div align=center><img width="1200" height="380" src="https://github.com/ShengtianSang/AER-SwinT/blob/main/figures/Framework%20main.png"/></div>
 <p align="left"> 
-The overview of our method. (a) represents an overview of combining the AFMA method with a general semantic segmentation method. The encoder of the segmentation model is input to the AFMA method, and its output is applied to the output of the segmentation method. (b-i) presents a detailed illustration of combining the AFMA method with different semantic segmentation models. 
+The overview of our method. 
 </p>
 
 
